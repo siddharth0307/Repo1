@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e97f9b10-34bf-4f10-b917-e9b7b1e6b9d1" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WfUdaQ1buunzm8BDabalP85BbT" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Test/POMProjectDemo/Pages" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Siddharth\Automation\ENM_Automation" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Siddharth\Automation\ENM_Automation\Test\POMProjectDemo\Pages" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests in enmMain.py">
+    <configuration name="Unittests for Test.POMProjectDemo.Tests.login.LoginTest" type="tests" factoryName="Unittests" nameIsGenerated="true">
+      <module name="ENM_Automation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Siddharth\Automation\ENM_Automation\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_pattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Test.POMProjectDemo.Tests.login.LoginTest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for enmMain.ENMAutomation" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="ENM_Automation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ENM_UI_Automation/ENM/Main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;enmMain.ENMAutomation&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for enmMain.ENMAutomation.test_1_load_notice_page" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="ENM_Automation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ENM_UI_Automation/ENM/Main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;enmMain.ENMAutomation.test_1_load_notice_page&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for enmMain.ENMAutomation.test_4_ENM_Main_Landing_Page_and_Alarm_Monitor_Click" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="ENM_Automation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ENM_UI_Automation/ENM/Main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;enmMain.ENMAutomation.test_4_ENM_Main_Landing_Page_and_Alarm_Monitor_Click&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for enmMain.ENMAutomation.test_5_add_topology" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="ENM_Automation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ENM_UI_Automation/ENM/Main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;enmMain.ENMAutomation.test_5_add_topology&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in enmMain.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="ENM_Automation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ENM_UI_Automation/ENM/Main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/ENM_UI_Automation/ENM/Main/enmMain.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.Unittests for Test.POMProjectDemo.Tests.login.LoginTest" />
+      <item itemvalue="Python tests.Unittests for enmMain.ENMAutomation" />
+      <item itemvalue="Python tests.Unittests for enmMain.ENMAutomation.test_1_load_notice_page" />
+      <item itemvalue="Python tests.Unittests in enmMain.py" />
+      <item itemvalue="Python tests.Unittests for enmMain.ENMAutomation.test_5_add_topology" />
+      <item itemvalue="Python tests.Unittests for enmMain.ENMAutomation.test_4_ENM_Main_Landing_Page_and_Alarm_Monitor_Click" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests in enmMain.py" />
+        <item itemvalue="Python tests.Unittests for enmMain.ENMAutomation.test_4_ENM_Main_Landing_Page_and_Alarm_Monitor_Click" />
+        <item itemvalue="Python tests.Unittests for enmMain.ENMAutomation" />
+        <item itemvalue="Python tests.Unittests for enmMain.ENMAutomation.test_5_add_topology" />
+        <item itemvalue="Python tests.Unittests for enmMain.ENMAutomation.test_1_load_notice_page" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e97f9b10-34bf-4f10-b917-e9b7b1e6b9d1" name="Default Changelist" comment="" />
+      <created>1579540230038</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579540230038</updated>
+    </task>
+    <servers />
+  </component>
+</project>
