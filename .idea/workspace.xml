@@ -1,7 +1,133 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e97f9b10-34bf-4f10-b917-e9b7b1e6b9d1" name="Default Changelist" comment="" />
+    <list default="true" id="e97f9b10-34bf-4f10-b917-e9b7b1e6b9d1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ENM_UI_Automation/Archive/CLICommand/TC3_Create_Node.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ENM_UI_Automation/Archive/FunctionalExecution/functionalExecution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ENM_UI_Automation/Archive/Generate_Traps/generate_Traps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ENM_UI_Automation/Archive/RunTestSuite/masterTestSuite.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ENM_UI_Automation/Archive/dummy/dummy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ENM_UI_Automation/Archive/dummy/dummy1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ENM_UI_Automation/Archive/dummy/dummy_new.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ENM_UI_Automation/Archive/dummy/readExcelAndPrintSysDate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ENM_UI_Automation/Archive/dummy/testwithIDE.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ENM_UI_Automation/ENM/AlarmMonitor_Page/add_NE_To_View_Alarm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ENM_UI_Automation/ENM/AlarmMonitor_Page/clean_All_Old_NEs_Before_Adding_NE.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ENM_UI_Automation/ENM/AlarmMonitor_Page/disable_enable_supervision_synchronize.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ENM_UI_Automation/ENM/AlarmMonitor_Page/findIfNeAvailable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ENM_UI_Automation/ENM/AlarmMonitor_Page/remove_Network_Window.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ENM_UI_Automation/ENM/AlarmMonitor_Page/viewAlarm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ENM_UI_Automation/ENM/CLI/nodeCreation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ENM_UI_Automation/ENM/Read_Write_Data/readInputData.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ENM_UI_Automation/ENM/Take_Screenshots/screenshot_logic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ENM_UI_Automation/TestSuite/AllTestCases/AlarmMonitor/Archive_Test_Cases/Old_Open_All_Traps_TakeScreenshot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ENM_UI_Automation/TestSuite/AllTestCases/AlarmMonitor/Archive_Test_Cases/TC1_Disable_Enable_Supervision_Synchronize_TakeScreenshot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ENM_UI_Automation/TestSuite/AllTestCases/AlarmMonitor/Archive_Test_Cases/TC1_Open_ENM_Page_Close_Browser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ENM_UI_Automation/TestSuite/AllTestCases/AlarmMonitor/Archive_Test_Cases/TC2_Login_with_Valid_Credentials.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ENM_UI_Automation/TestSuite/AllTestCases/AlarmMonitor/Archive_Test_Cases/TC3_Continue_On_Logon_Page_After_Successful_Login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ENM_UI_Automation/TestSuite/AllTestCases/AlarmMonitor/Archive_Test_Cases/TC4_ENM_Main_Page_Click_Alarm_Monitor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ENM_UI_Automation/TestSuite/AllTestCases/AlarmMonitor/Archive_Test_Cases/TC5_Clean_Previous_NE_Add_New_NE.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ENM_UI_Automation/TestSuite/AllTestCases/AlarmMonitor/Archive_Test_Cases/Test_for_dev.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ENM_UI_Automation/TestSuite/AllTestCases/AlarmMonitor/TC1_Disable_Enable_Supervision_Synchronize_TakeScreenshot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ENM_UI_Automation/TestSuite/AllTestCases/AlarmMonitor/TC2_Disable_Enable_Supervision_Without_Synchronize_TakeScreenshot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ENM_UI_Automation/TestSuite/AllTestCases/AlarmMonitor/TC3_Capture_Complete_Alarm_Monitor_page-alarm generate_after_3_minutes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ENM_UI_Automation/TestSuite/AllTestCases/AlarmMonitor/TC4_Open_All_Traps_one_after_another.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ENM_UI_Automation/TestSuite/AllTestCases/AlarmMonitor/debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Input/ENM_Data.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/ENM_Report/TestResults___main__.ValidLogin_2020-02-18_17-11-18.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/ENM_Report/TestResults___main__.ValidLogin_2020-02-26_16-14-42.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/Screenshots/Archive/OTA_After_Refresh_14_10_2020_15_09_42.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/Screenshots/Archive/OTA_Disable_Supervision_14_10_2020_14_09_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/Screenshots/Archive/OTA_Disable_Supervision_14_10_2020_14_59_57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/Screenshots/Archive/OTA_Disable_Supervision_14_10_2020_15_09_00.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/Screenshots/Archive/OTA_Enable_Supervision_14_10_2020_14_09_28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/Screenshots/Archive/OTA_Enable_Supervision_14_10_2020_15_00_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/Screenshots/Archive/OTA_Enable_Supervision_14_10_2020_15_09_08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/Screenshots/Archive/_A-CEE-Node_After_Refresh_22_10_2020_17_28_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/Screenshots/Archive/_A-CEE-Node_After_Refresh_22_10_2020_18_48_52.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/Screenshots/Archive/_A-CEE-Node_Alarm_Page_22_10_2020_17_12_17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/Screenshots/Archive/_A-CEE-Node_Alarm_Page_22_10_2020_17_29_09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/Screenshots/Archive/_A-CEE-Node_Alarm_Page_22_10_2020_18_49_13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/Screenshots/Archive/_A-CEE-Node_Disable_Supervision_15_10_2020_20_29_23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/Screenshots/Archive/_A-CEE-Node_Disable_Supervision_22_10_2020_17_25_25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/Screenshots/Archive/_A-CEE-Node_Disable_Supervision_22_10_2020_18_45_29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/Screenshots/Archive/_A-CEE-Node_Enable_Supervision_15_10_2020_20_29_31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/Screenshots/Archive/_A-CEE-Node_Enable_Supervision_22_10_2020_17_25_33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/Screenshots/Archive/_A-CEE-Node_Enable_Supervision_22_10_2020_18_45_37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/Screenshots/Archive/_SSC_02_After_Refresh_22_10_2020_18_54_46.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/Screenshots/Archive/_SSC_02_After_Refresh_22_10_2020_19_00_45.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/Screenshots/Archive/_SSC_02_After_Refresh_22_10_2020_19_04_46.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/Screenshots/Archive/_SSC_02_Alarm_Page_22_10_2020_18_54_56.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/Screenshots/Archive/_SSC_02_Alarm_Page_22_10_2020_19_00_51.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/Screenshots/Archive/_SSC_02_Alarm_Page_22_10_2020_19_04_56.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/Screenshots/Archive/_SSC_02_Disable_Supervision_22_10_2020_18_54_13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/Screenshots/Archive/_SSC_02_Disable_Supervision_22_10_2020_19_00_12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/Screenshots/Archive/_SSC_02_Disable_Supervision_22_10_2020_19_04_13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/Screenshots/Archive/_SSC_02_Enable_Supervision_22_10_2020_18_54_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/Screenshots/Archive/_SSC_02_Enable_Supervision_22_10_2020_19_00_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/Screenshots/Archive/_SSC_02_Enable_Supervision_22_10_2020_19_04_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/Screenshots/_SSC_02_After_Refresh_22_10_2020_19_16_57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/Screenshots/_SSC_02_After_Refresh_22_10_2020_19_25_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/Screenshots/_SSC_02_After_Refresh_22_10_2020_19_36_56.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/Screenshots/_SSC_02_After_Sync_22_10_2020_19_48_30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/Screenshots/_SSC_02_Alarm_Page_22_10_2020_19_16_57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/Screenshots/_SSC_02_Alarm_Page_22_10_2020_19_25_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/Screenshots/_SSC_02_Alarm_Page_22_10_2020_19_36_57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/Screenshots/_SSC_02_Disable_Supervision_22_10_2020_19_12_25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/Screenshots/_SSC_02_Disable_Supervision_22_10_2020_19_16_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/Screenshots/_SSC_02_Disable_Supervision_22_10_2020_19_24_59.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/Screenshots/_SSC_02_Disable_Supervision_22_10_2020_19_33_33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/Screenshots/_SSC_02_Disable_Supervision_22_10_2020_19_47_57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/Screenshots/_SSC_02_Enable_Supervision_22_10_2020_19_12_33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/Screenshots/_SSC_02_Enable_Supervision_22_10_2020_19_16_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/Screenshots/_SSC_02_Enable_Supervision_22_10_2020_19_25_06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/Screenshots/_SSC_02_Enable_Supervision_22_10_2020_19_33_40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/Screenshots/_SSC_02_Enable_Supervision_22_10_2020_19_48_05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/Screenshots/_SSC_02_Trap_1_1_22_10_2020_19_48_57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/Screenshots/_SSC_02_Trap_1_2_22_10_2020_19_49_08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/Screenshots/_SSC_02_Trap_2_1_22_10_2020_19_49_35.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/Screenshots/_SSC_02_Trap_2_2_22_10_2020_19_49_45.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/Screenshots/_SSC_02_Trap_3_1_22_10_2020_19_50_12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/Screenshots/_SSC_02_Trap_3_2_22_10_2020_19_50_38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/Screenshots/_SSC_02_Trap_4_1_22_10_2020_19_51_05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/Screenshots/_SSC_02_Trap_4_2_22_10_2020_19_51_12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/Screenshots/_SSC_02_Trap_5_1_22_10_2020_19_51_40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/Screenshots/_SSC_02_Trap_5_2_22_10_2020_19_51_43.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/Screenshots/_SSC_02_Trap_6_1_22_10_2020_19_52_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/Screenshots/_SSC_02_Trap_6_2_22_10_2020_19_52_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/Screenshots/_SSC_02_Trap_7_1_22_10_2020_19_52_42.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/Screenshots/_SSC_02_Trap_7_2_22_10_2020_19_52_51.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/Screenshots/_SSC_02_Trap_8_1_22_10_2020_19_53_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/Screenshots/_SSC_02_Trap_8_2_22_10_2020_19_53_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/Screenshots/_SSC_02_Trap_9_1_22_10_2020_19_53_51.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/Screenshots/_SSC_02_Trap_9_2_22_10_2020_19_54_09.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ENM_Report/TestResults___main__.ENMAutomation_2020-01-22_15-32-29.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ENM_UI_Automation/ENM/Main/enmMain.py" beforeDir="false" afterPath="$PROJECT_DIR$/ENM_UI_Automation/ENM/Read_Write_Data/enmMain.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ENM_UI_Automation/ENM/Pages/enmHomePage.py" beforeDir="false" afterPath="$PROJECT_DIR$/ENM_UI_Automation/ENM/ENM_Main_Page/enmHomePage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ENM_UI_Automation/ENM/Pages/enmLogin.py" beforeDir="false" afterPath="$PROJECT_DIR$/ENM_UI_Automation/ENM/Login_Page/enmLoginWithValidCredential.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ENM_UI_Automation/ENM/Pages/enmLoginSuccessful.py" beforeDir="false" afterPath="$PROJECT_DIR$/ENM_UI_Automation/ENM/Login_Page/enmLoginSuccessfulAfterValidLogin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ENM_UI_Automation/ENM/Pages/enmNotice.py" beforeDir="false" afterPath="$PROJECT_DIR$/ENM_UI_Automation/ENM/Login_Page/enmFirstPageNotice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ENM_UI_Automation/ENM/Pages/enmaddTopology.py" beforeDir="false" afterPath="$PROJECT_DIR$/ENM_UI_Automation/ENM/AlarmMonitor_Page/enmaddTopology.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/POMProjectDemo/Pages/homePage.py" beforeDir="false" afterPath="$PROJECT_DIR$/ENM_UI_Automation/Archive/Test/POMProjectDemo/Pages/homePage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/POMProjectDemo/Pages/loginPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/ENM_UI_Automation/Archive/Test/POMProjectDemo/Pages/loginPage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/POMProjectDemo/Tests/login.py" beforeDir="false" afterPath="$PROJECT_DIR$/ENM_UI_Automation/Archive/Test/POMProjectDemo/Tests/login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/drivers/IEDriverServer.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ENM_UI_Automation/drivers/IEDriverServer.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/drivers/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ENM_UI_Automation/drivers/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/drivers/geckodriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ENM_UI_Automation/drivers/geckodriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/ENM_UI_Automation/Archive/dummy/geckodriver.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dummy/testwithIDE.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/TestResults___main__.LoginTest_2020-01-20_22-59-38.html" beforeDir="false" afterPath="$PROJECT_DIR$/ENM_UI_Automation/Archive/report/TestResults___main__.LoginTest_2020-01-20_22-59-38.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/TestResults___main__.LoginTest_2020-01-20_23-39-56.html" beforeDir="false" afterPath="$PROJECT_DIR$/ENM_UI_Automation/Archive/report/TestResults___main__.LoginTest_2020-01-20_23-39-56.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/TestResults___main__.LoginTest_2020-01-20_23-41-19.html" beforeDir="false" afterPath="$PROJECT_DIR$/ENM_UI_Automation/Archive/report/TestResults___main__.LoginTest_2020-01-20_23-41-19.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/TestResults___main__.LoginTest_2020-01-20_23-51-55.html" beforeDir="false" afterPath="$PROJECT_DIR$/ENM_UI_Automation/Archive/report/TestResults___main__.LoginTest_2020-01-20_23-51-55.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/TestResults___main__.LoginTest_2020-01-21_00-30-08.html" beforeDir="false" afterPath="$PROJECT_DIR$/ENM_UI_Automation/Archive/report/TestResults___main__.LoginTest_2020-01-21_00-30-08.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/TestResults___main__.LoginTest_2020-01-21_00-32-24.html" beforeDir="false" afterPath="$PROJECT_DIR$/ENM_UI_Automation/Archive/report/TestResults___main__.LoginTest_2020-01-21_00-32-24.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/TestResults___main__.LoginTest_2020-01-21_00-41-57.html" beforeDir="false" afterPath="$PROJECT_DIR$/ENM_UI_Automation/Archive/report/TestResults___main__.LoginTest_2020-01-21_00-41-57.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,16 +141,32 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WfUdaQ1buunzm8BDabalP85BbT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Test/POMProjectDemo/Pages" />
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ENM_UI_Automation/TestSuite/AllTestCases/AlarmMonitor/Archive_Test_Cases" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Siddharth\Automation\ENM_Automation" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Siddharth\Automation\ENM_Automation\Test\POMProjectDemo\Pages" />
+      <recent name="C:\Siddharth\Automation\ENM_Automation\ENM_UI_Automation\TestSuite\AllTestCases\AlarmMonitor\Archive_Test_Cases" />
+      <recent name="C:\Siddharth\Automation\ENM_Automation\ENM_UI_Automation\TestSuite\AllTestCases\AlarmMonitor" />
+      <recent name="C:\Siddharth\Automation\ENM_Automation\ENM_Execution\TestSuite\AllTestCases\AlarmMonitor" />
+      <recent name="C:\Siddharth\Automation\ENM_Automation\ENM_Execution\TestSuite\AllTestCases" />
+      <recent name="C:\Siddharth\Automation\ENM_Automation\ENM_Execution" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Siddharth\Automation\ENM_Automation\ENM_UI_Automation\TestSuite\AllTestCases\AlarmMonitor\Archive_Test_Cases" />
+      <recent name="C:\Siddharth\Automation\ENM_Automation" />
+      <recent name="C:\Siddharth\Automation\ENM_Automation\ENM_UI_Automation" />
+      <recent name="C:\Siddharth\Automation\ENM_Automation\ENM_UI_Automation\ENM" />
+      <recent name="C:\Siddharth\Automation\ENM_Automation\ENM_UI_Automation\Archive" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -39,8 +181,71 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in enmMain.py">
-    <configuration name="Unittests for Test.POMProjectDemo.Tests.login.LoginTest" type="tests" factoryName="Unittests" nameIsGenerated="true">
+  <component name="RunManager">
+    <configuration name="dummy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ENM_Automation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dummy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dummy/dummy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dummy_new" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ENM_Automation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dummy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dummy/dummy_new.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="generate_Traps" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ENM_Automation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ENM_UI_Automation/Generate_Traps" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ENM_UI_Automation/Generate_Traps/generate_Traps.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for ENM_UI_Automation.Archive.Test.POMProjectDemo.Tests.login.LoginTest" type="tests" factoryName="Unittests" nameIsGenerated="true">
       <module name="ENM_Automation" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -51,95 +256,68 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_pattern" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;Test.POMProjectDemo.Tests.login.LoginTest&quot;" />
+      <option name="_new_target" value="&quot;ENM_UI_Automation.Archive.Test.POMProjectDemo.Tests.login.LoginTest&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for enmMain.ENMAutomation" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests in TC1_Disable_Enable_Supervision_Synchronize_TakeScreenshot.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="ENM_Automation" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ENM_UI_Automation/ENM/Main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ENM_UI_Automation/TestSuite/AllTestCases/AlarmMonitor" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;enmMain.ENMAutomation&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/ENM_UI_Automation/TestSuite/AllTestCases/AlarmMonitor/TC1_Disable_Enable_Supervision_Synchronize_TakeScreenshot.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for enmMain.ENMAutomation.test_1_load_notice_page" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests in TC3_Capture_Complete_Alarm_Monitor_page-alarm generate_after_3_minutes.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="ENM_Automation" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ENM_UI_Automation/ENM/Main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ENM_UI_Automation/TestSuite/AllTestCases/AlarmMonitor" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;enmMain.ENMAutomation.test_1_load_notice_page&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/ENM_UI_Automation/TestSuite/AllTestCases/AlarmMonitor/TC3_Capture_Complete_Alarm_Monitor_page-alarm generate_after_3_minutes.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for enmMain.ENMAutomation.test_4_ENM_Main_Landing_Page_and_Alarm_Monitor_Click" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests in TC4_Open_All_Traps_one_after_another.py" type="tests" factoryName="Unittests" nameIsGenerated="true">
       <module name="ENM_Automation" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ENM_UI_Automation/ENM/Main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ENM_UI_Automation/TestSuite/AllTestCases/AlarmMonitor" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;enmMain.ENMAutomation.test_4_ENM_Main_Landing_Page_and_Alarm_Monitor_Click&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Unittests for enmMain.ENMAutomation.test_5_add_topology" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="ENM_Automation" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ENM_UI_Automation/ENM/Main" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;enmMain.ENMAutomation.test_5_add_topology&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Unittests in enmMain.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="ENM_Automation" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ENM_UI_Automation/ENM/Main" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/ENM_UI_Automation/ENM/Main/enmMain.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/ENM_UI_Automation/TestSuite/AllTestCases/AlarmMonitor/TC4_Open_All_Traps_one_after_another.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python tests.Unittests for Test.POMProjectDemo.Tests.login.LoginTest" />
-      <item itemvalue="Python tests.Unittests for enmMain.ENMAutomation" />
-      <item itemvalue="Python tests.Unittests for enmMain.ENMAutomation.test_1_load_notice_page" />
-      <item itemvalue="Python tests.Unittests in enmMain.py" />
-      <item itemvalue="Python tests.Unittests for enmMain.ENMAutomation.test_5_add_topology" />
-      <item itemvalue="Python tests.Unittests for enmMain.ENMAutomation.test_4_ENM_Main_Landing_Page_and_Alarm_Monitor_Click" />
+      <item itemvalue="Python.dummy" />
+      <item itemvalue="Python.generate_Traps" />
+      <item itemvalue="Python.dummy_new" />
+      <item itemvalue="Python tests.Unittests for ENM_UI_Automation.Archive.Test.POMProjectDemo.Tests.login.LoginTest" />
+      <item itemvalue="Python tests.Unittests in TC4_Open_All_Traps_one_after_another.py" />
+      <item itemvalue="Python tests.Unittests in TC1_Disable_Enable_Supervision_Synchronize_TakeScreenshot.py" />
+      <item itemvalue="Python tests.Unittests in TC3_Capture_Complete_Alarm_Monitor_page-alarm generate_after_3_minutes.py" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Unittests in enmMain.py" />
-        <item itemvalue="Python tests.Unittests for enmMain.ENMAutomation.test_4_ENM_Main_Landing_Page_and_Alarm_Monitor_Click" />
-        <item itemvalue="Python tests.Unittests for enmMain.ENMAutomation" />
-        <item itemvalue="Python tests.Unittests for enmMain.ENMAutomation.test_5_add_topology" />
-        <item itemvalue="Python tests.Unittests for enmMain.ENMAutomation.test_1_load_notice_page" />
+        <item itemvalue="Python tests.Unittests in TC1_Disable_Enable_Supervision_Synchronize_TakeScreenshot.py" />
+        <item itemvalue="Python tests.Unittests in TC3_Capture_Complete_Alarm_Monitor_page-alarm generate_after_3_minutes.py" />
+        <item itemvalue="Python.dummy_new" />
+        <item itemvalue="Python.dummy" />
+        <item itemvalue="Python.generate_Traps" />
       </list>
     </recent_temporary>
   </component>
@@ -155,5 +333,21 @@
       <updated>1579540230038</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
